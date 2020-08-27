@@ -20,6 +20,4 @@
 <p align="center">
 <a href="https://twitter.com/r1cky_90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="r1cky_90" height="30" width="30" /></a>
 <a href="https://kaggle.com/r1cky7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="r1cky7" height="30" width="30" /></a>
-<a href="https://dribbble.com/riku suzuki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="riku suzuki" height="30" width="30" /></a>
-<a href="https://www.behance.net/riku suzuki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="riku suzuki" height="30" width="30" /></a>
 </p>
