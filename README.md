@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r1ck29" alt="r1ck29" /> </p>
 
-- 🔭 I’m currently working on **Object Detection Solution**
+- 🔭 I’m currently working on **Computer Vision Project**
 
 - 🌱 I’m currently learning **PyTorch Lightning**
 
