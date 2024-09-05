@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Riku Suzuki</h1>
-<h3 align="center">A passionate Machine Learning Engineer living in Tokyo</h3>
+<h3 align="center">A passionate Data Scientist living in Tokyo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r1ck29" alt="r1ck29" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision Project**
+- 🔭 I’m currently working on **Uplift Model Project**
 
-- 🌱 I’m currently learning **PyTorch Lightning**
+- 🌱 I’m currently learning **Causal Inference**
 
 - 👯 I’m looking to collaborate on **Kaggle competitions**
 
-- 💬 Ask me about **Computer Vision**
+- 💬 Ask me about **Computer Vision, Machine Learning**
 
 - 📫 How to reach me **r1cky.ft9@gmail.com**
 
